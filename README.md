@@ -31,6 +31,7 @@ For the Production Part I divided the webpack.config.js into two part:
 
 And in my package.json file 
 <img src="https://github.com/MdKAMRAN7255/SPA_practise/blob/screenshot/Screenshot%20from%202023-03-17%2019-55-17.png">
+
 Inside the Script i put build for production and build-dev for development.
 And on "npm run start" it only open build-dev 
 
