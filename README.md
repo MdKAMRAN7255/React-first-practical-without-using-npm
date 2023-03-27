@@ -8,6 +8,7 @@ I used babel-core,-cli,-env to do any transformations on our code, env for trans
 Then use webpack for bundling different types of files,it also help in loading the server using different plugins like HMR.
 
 Then I create a Folder structuer like this:
+
       .
       +-- public
       | +-- index.html
